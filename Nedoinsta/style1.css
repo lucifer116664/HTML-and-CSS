@@ -1,0 +1,112 @@
+@keyframes bOne
+{
+  0%
+  {
+left: -200px;
+  }
+  25%
+  {
+  }
+  50%
+  {
+  }
+  75%
+  {
+  }
+  100%
+  {
+  left: 700px; 
+  }
+}
+@keyframes bTwo
+{
+  0%
+  {
+left: -1000px;
+  }
+  25%
+  {
+  }
+  50%
+  {
+    left: 640px;  
+  }
+  75%
+  {
+  }
+  100%
+  {
+  }
+}
+@keyframes bThree
+{
+  0%
+  {
+top: -1000px;
+  }
+  25%
+  {
+  }
+  50%
+  {
+    top: 100px;  
+  }
+  75%
+  {
+  }
+  100%
+  {
+  }
+}
+.bg
+{
+   position: absolute;
+  width: 600px;
+  height: 600px;
+  top: 20px;
+  left: 635px;
+  background:  
+   linear-gradient( #400080, transparent), 
+  linear-gradient( 
+   200deg, #d047d1, #ff0000,    #ffff00);
+  border-radius: 25%;
+}
+.b1 
+{  
+  position: absolute;
+  width: 400px;
+  height: 400px;
+  border-radius: 25%;
+  animation-name: bOne;
+  border: 35px solid #fff;
+  animation-duration: 3s;
+  top: 80px;
+  left: 700px;
+}
+
+
+.b2 
+{ 
+  position: absolute;
+  width: 150px;
+  height: 150px;
+  border-radius: 100%;
+  border: 35px solid #fff;
+  animation-name: bTwo;
+animation-duration: 3s;
+top:200px;
+left: 820px;
+}
+
+.b3 
+{   
+  position: absolute;
+  width: 40px;
+  height:40px;
+  background: #fff;
+  border-radius: 100%;
+  animation-name: bThree;
+animation-duration: 3s;
+top:135px;
+left: 1050px;  
+}

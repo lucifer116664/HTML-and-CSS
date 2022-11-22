@@ -1,0 +1,166 @@
+li ul {
+    position: absolute;
+    display: none;
+    margin-right: 165px;
+    list-style-type: none;
+   }
+   li a {
+    display: block;
+    padding: 5px;
+    text-decoration: none; 
+    color: #666;
+    border: 1px solid #ccc;
+    background-color: #f0f0f0;
+    border-bottom: none; 
+   }
+   li a:hover {
+    color: #ffe;
+    background-color: #5488af;
+    text-decoration: none;
+   }
+   li:hover ul { 
+    display: block;
+    text-decoration: none;
+   }
+   .brd {
+    border-bottom: 1px solid #ccc;
+   }
+   body
+   {
+      background-image: url(Images/bg.jpg);
+      background-attachment: fixed;
+      background-size: 100%;
+   }
+   .block
+   {
+    background-color: white;
+    margin: auto;
+    width: 1000px;
+    height: 600px;
+   }
+   .block1
+   {
+    background-color: #C0C0C0;
+    width: 100%;
+    height: 130px;
+    padding-top: 10%;
+   }
+      .block2
+   {
+    background-color: white;
+    margin: auto;
+    width: 1004px;
+    height: 2300px;
+   }
+      .block3
+   {
+    background-color: white;
+    margin: auto;
+    width: 1000px;
+    height: 800px;
+   }
+      .block4
+   {
+    background-color: white;
+    margin: auto;
+    width: 1000px;
+    height: 1400px;
+   }
+      .block5
+   {
+    background-color: white;
+    margin: auto;
+    width: 1000px;
+    height: 1000px;
+   }
+      .block6
+   {
+    background-color: white;
+    margin: auto;
+    width: 1000px;
+    height: 800px;
+   }
+   .block7
+   {
+    background-color: white;
+    margin: auto;
+    width: 1000px;
+    height: 850px;
+   }
+   .block8
+   {
+    background-color: white;
+    margin: auto;
+    width: 1000px;
+    height: 4100px;
+   }
+   .block9
+   {
+    background-color: white;
+    margin: auto;
+    width: 1000px;
+    height: 3800px;
+   }
+   .block10
+   {
+    background-color: white;
+    margin: auto;
+    width: 1000px;
+    height: 1050px;
+   }
+   .block11
+   {
+    background-color: white;
+    margin: auto;
+    width: 1000px;
+    height: 1500px;
+   }
+   .block12
+   {
+    background-color: white;
+    margin: auto;
+    width: 1000px;
+    height: 900px;
+   }
+   .block13
+   {
+    background-color: white;
+    margin: auto;
+    width: 1000px;
+    height: 1200px;
+   }
+   .block14
+   {
+    background-color: white;
+    margin: auto;
+    width: 1000px;
+    height: 1900px;
+   }
+   .block15
+   {
+    background-color: white;
+    margin: auto;
+    width: 1000px;
+    height: 1300px;
+   }
+   .block16
+   {
+    background-color: white;
+    margin: auto;
+    width: 1000px;
+    height: 1700px;
+   }
+   .space
+   {
+    margin-left: 10px;
+   }
+   img
+   {
+    border-radius: 0px;
+    border: 1px;
+   }
+   img : hover
+   {
+    border-radius: 100px;
+    border: 3px;
+   }
